@@ -1,0 +1,34 @@
+
+body{
+    background-color: rgb(210, 185, 231);
+color: rgb(42, 44, 77);
+font-family: 'Shadows Into Light', cursive;
+background-image: url(https://www.coldplay.com/wp/wp-content/themes/coldplay/static/build/images/kaotica.png);
+backdrop-filter: blur(5px);
+background-size: contain;
+background-repeat: repeat-x;
+}
+
+p{
+ color: rgb(26, 12, 39); 
+ text-align: center;
+ 
+}
+
+h1{
+    color: rgb(155, 46, 74);
+    text-align: center;
+}
+
+.titulo-web{
+    color: aqua;
+    text-align: center;
+}
+img{
+    width: 500px;
+    height: 300px;
+}
+.A{
+    width: 200px;
+    height: 300px;
+}
